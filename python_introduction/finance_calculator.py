@@ -1,4 +1,3 @@
-
 # finance_calculator.py
 
 # Get inputs
